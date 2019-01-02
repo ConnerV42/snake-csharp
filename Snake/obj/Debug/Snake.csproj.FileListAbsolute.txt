@@ -1,0 +1,15 @@
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\obj\Debug\MainWindow.g.cs
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\obj\Debug\App.g.cs
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\obj\Debug\Snake_MarkupCompile.lref
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\obj\Debug\MainWindow.baml
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\obj\Debug\Snake.g.resources
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Conner Verret\Desktop\VisualStudio\Snake\Snake\obj\Debug\Snake.pdb
